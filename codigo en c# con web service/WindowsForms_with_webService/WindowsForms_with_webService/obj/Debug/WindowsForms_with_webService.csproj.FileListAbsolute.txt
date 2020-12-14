@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\WindowsForms_with_webService\WindowsForms_with_webService\obj\Debug\WindowsForms_with_webService.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\WindowsForms_with_webService\WindowsForms_with_webService\obj\Debug\WindowsForms_with_webService.Form1.resources
+C:\Users\Lenovo\source\repos\WindowsForms_with_webService\WindowsForms_with_webService\obj\Debug\WindowsForms_with_webService.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\WindowsForms_with_webService\WindowsForms_with_webService\obj\Debug\WindowsForms_with_webService.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\WindowsForms_with_webService\WindowsForms_with_webService\obj\Debug\WindowsForms_with_webService.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\WindowsForms_with_webService\WindowsForms_with_webService\bin\Debug\WindowsForms_with_webService.exe.config
+C:\Users\Lenovo\source\repos\WindowsForms_with_webService\WindowsForms_with_webService\bin\Debug\WindowsForms_with_webService.exe
+C:\Users\Lenovo\source\repos\WindowsForms_with_webService\WindowsForms_with_webService\bin\Debug\WindowsForms_with_webService.pdb
+C:\Users\Lenovo\source\repos\WindowsForms_with_webService\WindowsForms_with_webService\obj\Debug\WindowsForms_with_webService.exe
+C:\Users\Lenovo\source\repos\WindowsForms_with_webService\WindowsForms_with_webService\obj\Debug\WindowsForms_with_webService.pdb
